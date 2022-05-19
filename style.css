@@ -1,0 +1,39 @@
+.heading {
+    background-color:rgb(157, 59, 255) ;
+    font-size: 23;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(71, 68, 73);
+    font-family:fantasy;
+    font-weight: 900;
+    color: black;
+}
+
+.note {
+    font-size: 15px;
+    color:black;
+    font-family:monospace;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:rgb(175, 175, 175);
+    bottom: 0;
+    width:100%;
+    background-color: rgb(78, 77, 77);
+    line-height: 3;
+    text-align: center;
+    font-family:monospace;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+canvas {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(218, 218, 218);
+}
